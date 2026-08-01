@@ -1,4 +1,4 @@
-    <section class="hero" style="background-image:url('{{ asset('assets/images/hero/hero.png') }}')">
+    <section class="hero" style="background-image:url('{{ asset('assets/images/hero/gapura2.png') }}')">
         <div class="hero-overlay"></div>
         <div class="container h-100">
             <div class="row align-items-center h-100">
