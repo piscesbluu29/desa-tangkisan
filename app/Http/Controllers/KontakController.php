@@ -6,8 +6,8 @@ use Illuminate\Http\Request;
 
 class KontakController extends Controller
 {
-public function __invoke()
-{
-    return view('kontak.index');
-}
+    public function __invoke()
+    {
+        return view('kontak.index');
+    }
 }

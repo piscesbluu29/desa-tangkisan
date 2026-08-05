@@ -88,16 +88,16 @@
                         </a>
                     </li>
 
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a href="{{ route('kontak') }}"
                             class="nav-link {{ request()->routeIs('kontak') ? 'active' : '' }}">
                             Kontak
                         </a>
-                    </li>
+                    </li> -->
 
                 </ul>
 
-                <a href="#" class="btn-report">
+                <a href="{{ route('kontak') }}" class="btn-report">
                     <i class="bi bi-megaphone-fill me-2"></i>
                     Lapor
                 </a>

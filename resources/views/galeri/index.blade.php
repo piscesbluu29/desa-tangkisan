@@ -37,7 +37,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-card">
-                    <img src="{{ asset('assets/images/gallery/gallery1.jpg') }}" class="img-fluid" alt="Galeri">
+                    <img src="{{ asset('assets/images/berita/kerja-bakti.png') }}" class="img-fluid" alt="Galeri">
                     <div class="gallery-content">
                         <h5>Kerja Bakti Desa</h5>
                     </div>
@@ -46,7 +46,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-card">
-                    <img src="{{ asset('assets/images/gallery/gallery2.jpg') }}" class="img-fluid" alt="Galeri">
+                    <img src="{{ asset('assets/images/wisata/sungai-klawing.png') }}" class="img-fluid" alt="Galeri">
                     <div class="gallery-content">
                         <h5>Wisata Alam</h5>
                     </div>
@@ -64,7 +64,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-card">
-                    <img src="{{ asset('assets/images/gallery/gallery4.jpg') }}" class="img-fluid" alt="Galeri">
+                    <img src="{{ asset('assets/images/berita/musyawarah.png') }}" class="img-fluid" alt="Galeri">
                     <div class="gallery-content">
                         <h5>Musyawarah Desa</h5>
                     </div>
@@ -73,9 +73,9 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-card">
-                    <img src="{{ asset('assets/images/gallery/gallery5.jpg') }}" class="img-fluid" alt="Galeri">
+                    <img src="{{ asset('assets/images/berita/sosialisasi.png') }}" class="img-fluid" alt="Galeri">
                     <div class="gallery-content">
-                        <h5>Panen Raya</h5>
+                        <h5>Sosialisasi SD</h5>
                     </div>
                 </div>
             </div>

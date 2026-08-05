@@ -125,7 +125,7 @@
             Hubungi perangkat Desa Tangkisan untuk memperoleh informasi dan pelayanan administrasi.
         </p>
 
-        <a href="#" class="btn-primary-custom">
+        <a href="{{ route('kontak') }}" class="btn-primary-custom">
             Hubungi Kami
         </a>
 

@@ -19,7 +19,7 @@ return [
         [
             'slug' => 'area-persawahan',
             'name' => 'Area Persawahan',
-            'image' => 'assets/images/wisata/sawah.png',
+            'image' => 'assets/images/wisata/sawah1.png',
             'category' => 'Agrowisata',
             'location' => 'Desa Tangkisan, Kecamatan Mrebet, Kabupaten Purbalingga',
             'short_description' => 'Hamparan sawah hijau yang menjadi ikon keindahan alam Desa Tangkisan.',
@@ -31,7 +31,7 @@ return [
         [
             'slug' => 'wisata-alam',
             'name' => 'Wisata Alam',
-            'image' => 'assets/images/wisata/air.png',
+            'image' => 'assets/images/wisata/sungai-klawing.png',
             'category' => 'Wisata Alam',
             'location' => 'Desa Tangkisan, Kecamatan Mrebet, Kabupaten Purbalingga',
             'short_description' => 'Suasana pedesaan yang tenang cocok untuk rekreasi dan melepas penat.',

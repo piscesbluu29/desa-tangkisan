@@ -25,7 +25,7 @@
 
             <div class="col-lg-6">
                 <div class="about-image">
-                    <img src="{{ asset('assets/images/about/desa.png') }}" class="img-fluid rounded-4 shadow" alt="Desa Tangkisan">
+                    <img src="{{ asset('assets/images/about/gapura.png') }}" class="img-fluid rounded-4 shadow" alt="Desa Tangkisan">
                 </div>
             </div>
 

@@ -65,12 +65,22 @@
                             <p>{{ $product['market'] }}</p>
                         </div>
                     </div>
+                    <div class="d-flex flex-wrap gap-3 mt-4">
 
-                </div>
+                        @if(!empty($product['phone']))
+                            <a href="https://wa.me/{{ $product['phone'] }}"
+                            target="_blank"
+                            class="btn-whatsapp">
+                                <i class="bi bi-whatsapp me-2"></i>
+                                Hubungi Penjual
+                            </a>
+                        @endif
 
-                <a href="{{ route('umkm') }}" class="btn-primary-custom">
-                    Kembali ke Daftar UMKM
-                </a>
+                        <a href="{{ route('umkm') }}" class="btn-primary-custom">
+                            Kembali ke Daftar UMKM
+                        </a>
+
+                    </div>
 
             </div>
 
