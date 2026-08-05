@@ -46,21 +46,21 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-card">
-                    <img src="{{ asset('assets/images/wisata/sungai-klawing.png') }}" class="img-fluid" alt="Galeri">
+                    <img src="{{ asset('assets/images/wisata/pemandangan1.png') }}" class="img-fluid" alt="Galeri">
                     <div class="gallery-content">
                         <h5>Wisata Alam</h5>
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-4 col-md-6">
+            <!-- <div class="col-lg-4 col-md-6">
                 <div class="gallery-card">
                     <img src="{{ asset('assets/images/gallery/gallery3.jpg') }}" class="img-fluid" alt="Galeri">
                     <div class="gallery-content">
                         <h5>Pelatihan UMKM</h5>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="col-lg-4 col-md-6">
                 <div class="gallery-card">
@@ -80,14 +80,14 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 col-md-6">
+            <!-- <div class="col-lg-4 col-md-6">
                 <div class="gallery-card">
                     <img src="{{ asset('assets/images/gallery/gallery6.jpg') }}" class="img-fluid" alt="Galeri">
                     <div class="gallery-content">
                         <h5>Festival Budaya</h5>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
         </div>
 
